@@ -1,2 +1,2 @@
-# slurm-workshop-sep2021
+# slurm-workshop-sep2022
 materials and examples for Slurm Job Management workshop
